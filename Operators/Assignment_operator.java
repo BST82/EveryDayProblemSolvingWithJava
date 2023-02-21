@@ -24,6 +24,7 @@ public class Assignment_operator {
         System.out.println(D);
 
         int F = 40;
+
         F /= 5; // F=F/5
         System.out.println(F);
 
